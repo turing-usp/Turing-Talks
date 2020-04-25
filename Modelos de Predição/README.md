@@ -31,8 +31,6 @@ Artigos sobre [Modelos de Predição](https://medium.com/turing-talks/turing-tal
 - ### Naive Bayes
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-16-modelo-de-predi%C3%A7%C3%A3o-naive-bayes-6a3e744e7986)
 
-  - [👩‍💻 Código](./Naive%20Bayes/)
-
 - ### Decision Tree
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-17-modelos-de-predi%C3%A7%C3%A3o-decision-tree-610aa484cb05)
 
