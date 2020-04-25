@@ -20,3 +20,7 @@ Este repositório contém os códigos demonstrados nas publicações, organizado
 - ### [👨‍💻 Programação](Programação/)
 
 - ### [🧠 Redes Neurais](Redes%20Neurais/)
+
+## Licensa
+
+Distribuído sob a licença MIT. Veja LICENSE para mais informações.
