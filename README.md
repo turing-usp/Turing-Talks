@@ -1,7 +1,4 @@
-# 📰 Turing Talks
-
-
-> ## *Inteligência Artificial para todos.*
+![Turing Talks](⠀docs/logo.png)
 
 <br>
 
