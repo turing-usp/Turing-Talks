@@ -1,4 +1,6 @@
-# Aprendizado por Reforço
+# 🤖 Aprendizado por Reforço
+
+Artigos sobre a área de [Aprendizado por Reforço](https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-1-introdu%C3%A7%C3%A3o-7382ebb641ab).
 
 ## Textos
 

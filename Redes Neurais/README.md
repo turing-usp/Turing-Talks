@@ -1,4 +1,6 @@
-# Redes Neurais
+# 🧠 Redes Neurais
+
+Artigos sobre [Redes Neurais](https://medium.com/turing-talks/turing-talks-19-modelos-de-predi%C3%A7%C3%A3o-redes-neurais-1f165583a927).
 
 ## Textos
 

@@ -1,6 +1,12 @@
-# Modelos de Predição
+# 📈 Modelos de Predição
+
+Artigos sobre [Modelos de Predição](https://medium.com/turing-talks/turing-talks-10-introdu%C3%A7%C3%A3o-%C3%A0-predi%C3%A7%C3%A3o-a75cd61c268d).
 
 ## Textos
+
+- ### Introdução à Predição
+  - [📑 Artigo](https://medium.com/turing-talks/turing-talks-10-introdu%C3%A7%C3%A3o-%C3%A0-predi%C3%A7%C3%A3o-a75cd61c268d)
+
 
 - ### Regressão Linear
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-11-modelo-de-predi%C3%A7%C3%A3o-regress%C3%A3o-linear-7842709a593b)
