@@ -15,7 +15,7 @@
 - ### KNN
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-13-modelo-de-predi%C3%A7%C3%A3o-knn-3be880c9b9d1)
 
-  - [👩‍💻 Código]()
+  - [👩‍💻 Código](./KNN/)
 
 - ### Regressão Logística
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-14-modelo-de-predi%C3%A7%C3%A3o-regress%C3%A3o-log%C3%ADstica-7b70a9098e43)
