@@ -11,7 +11,7 @@ Este repositório contém os códigos demonstrados nas publicações, organizado
 
 ## Tópicos
 
-- ###  [🤖 Aprendizado por Reforço](Aprendizado%20por%20Reforço/)
+- ### [🤖 Aprendizado por Reforço](Aprendizado%20por%20Reforço/)
 
 - ### [📂Data Science](Data%20Science/)
 

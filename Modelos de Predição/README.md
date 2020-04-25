@@ -11,7 +11,7 @@ Artigos sobre [Modelos de Predição](https://medium.com/turing-talks/turing-tal
 - ### Regressão Linear
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-11-modelo-de-predi%C3%A7%C3%A3o-regress%C3%A3o-linear-7842709a593b)
 
-  - [👩‍💻 Código]() 🚧 Em Construção 🚧
+  - [👩‍💻 Código](./Regressão%20Linear/)
 
 - ### SVM
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-12-classifica%C3%A7%C3%A3o-por-svm-f4598094a3f1) 
@@ -31,7 +31,7 @@ Artigos sobre [Modelos de Predição](https://medium.com/turing-talks/turing-tal
 - ### Naive Bayes
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-16-modelo-de-predi%C3%A7%C3%A3o-naive-bayes-6a3e744e7986)
 
-  - [👩‍💻 Código]() 🚧 Em Construção 🚧
+  - [👩‍💻 Código](./Naive%20Bayes/)
 
 - ### Decision Tree
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-17-modelos-de-predi%C3%A7%C3%A3o-decision-tree-610aa484cb05)
