@@ -9,12 +9,12 @@
 
   - [📑 Artigo: Parte 3](https://medium.com/turing-talks/turing-talks-22-modelos-de-predi%C3%A7%C3%A3o-redes-neurais-parte-3-9c5d5d0c60e7)
 
-  - [👩‍💻 Código]()
+  - [👩‍💻 Código]() 🚧 Em Construção 🚧
 
 - ### Keras e TensorFlow 2
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-25-redes-neurais-com-keras-e-tensorflow-2-0-44fc0974c7fb) 
 
-  - [👩‍💻 Código]()
+  - [👩‍💻 Código]() 🚧 Em Construção 🚧
 
 - ### Redes Neurais Recorrentes
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-26-modelos-de-predi%C3%A7%C3%A3o-redes-neurais-recorrentes-439198e9ecf3)
