@@ -13,6 +13,9 @@ Artigos sobre [Redes Neurais](https://medium.com/turing-talks/turing-talks-19-mo
 
   - [👩‍💻 Código]() 🚧 Em Construção 🚧
 
+- ### Redes Neurais Convolucionais
+  - [📑 Artigo](https://medium.com/turing-talks/turing-talks-23-modelos-de-predi%C3%A7%C3%A3o-redes-neurais-convolucionais-d364654a34de)
+
 - ### Keras e TensorFlow 2
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-25-redes-neurais-com-keras-e-tensorflow-2-0-44fc0974c7fb) 
 
