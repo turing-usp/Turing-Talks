@@ -26,22 +26,20 @@ Artigos sobre [Modelos de Predição](https://medium.com/turing-talks/turing-tal
 - ### Regressão Logística
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-14-modelo-de-predi%C3%A7%C3%A3o-regress%C3%A3o-log%C3%ADstica-7b70a9098e43)
 
-  - [👩‍💻 Código]() 🚧 Em Construção 🚧
+  - [👩‍💻 Código](./Regressão%20Logística/)
 
 - ### Naive Bayes
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-16-modelo-de-predi%C3%A7%C3%A3o-naive-bayes-6a3e744e7986)
 
-  - [👩‍💻 Código](./Naive%20Bayes/)
-
 - ### Decision Tree
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-17-modelos-de-predi%C3%A7%C3%A3o-decision-tree-610aa484cb05)
 
-  - [👩‍💻 Código]() 🚧 Em Construção 🚧
+  - [👩‍💻 Código](./Decision%20Tree/) 
 
 - ### Random Forest
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-18-modelos-de-predi%C3%A7%C3%A3o-random-forest-cfc91cd8e524)
 
-  - [👩‍💻 Código]() 🚧 Em Construção 🚧
+  - [👩‍💻 Código](./Random%20Forest/)
 
 - ### Regressão de Ridge e Lasso
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-20-regress%C3%A3o-de-ridge-e-lasso-a0fc467b5629)
