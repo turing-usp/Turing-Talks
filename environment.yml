@@ -1,0 +1,19 @@
+name: turing-talks
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python==3.7
+  - gym
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - pip
+  - scikit-optimize
+  - scikit-learn
+  - scipy
+  - seaborn
+  - pip:
+    - tensorflow
+    - tensorboard
