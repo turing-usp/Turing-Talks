@@ -12,7 +12,11 @@ Este repositório contém os códigos demonstrados nas publicações, organizado
 
 - ### [📂Data Science](Data%20Science/)
 
+- ### [💥 Geral](Geral/)
+
 - ### [📈 Modelos de Predição](Modelos%20de%20Predição/)
+
+- ### [💠 Projetos](Projetos/)
 
 - ### [👨‍💻 Programação](Programação/)
 
