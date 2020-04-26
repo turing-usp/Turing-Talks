@@ -1,7 +1,4 @@
-# 📰 Turing Talks
-
-
-> ## *Inteligência Artificial para todos.*
+![Turing Talks](⠀docs/logo.png)
 
 [![Binder](https://mybinder.org/badge_logo.svg)][1]
 <br>
@@ -25,7 +22,11 @@ conda activate turing-talks
 
 - ### [📂Data Science](Data%20Science/)
 
+- ### [💥 Geral](Geral/)
+
 - ### [📈 Modelos de Predição](Modelos%20de%20Predição/)
+
+- ### [💠 Projetos](Projetos/)
 
 - ### [👨‍💻 Programação](Programação/)
 

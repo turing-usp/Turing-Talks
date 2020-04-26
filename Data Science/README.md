@@ -18,3 +18,8 @@ Artigos sobre a área de Data Science.
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-9-visualiza%C3%A7%C3%A3o-de-dados-93df670d479) 
 
   - [👩‍💻 Código]() 🚧 Em Construção 🚧
+
+- ### Redução de Dimensionalidade
+  - [📑 Artigo](https://medium.com/turing-talks/aprendizado-n%C3%A3o-supervisionado-redu%C3%A7%C3%A3o-de-dimensionalidade-479ecfc464ea)
+
+  - [👩‍💻 Código]() 🚧 Em Construção 🚧
