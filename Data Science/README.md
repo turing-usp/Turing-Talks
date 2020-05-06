@@ -7,7 +7,10 @@ Artigos sobre a área de Data Science.
 - ### Bibliotecas de Data Science
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-6-data-science-libraries-6c2599838b3e)
 
-  - [👩‍💻 Código]() 🚧 Em Construção 🚧
+  - [👩‍💻 Código - Jupyter Notebook](Bibliotecas%20de%20Data%20Science/jupyter-notebook.ipynb)
+  - [👩‍💻 Código - Numpy](Bibliotecas%20de%20Data%20Science/numpy.ipynb)
+  - [👩‍💻 Código - Pandas](Bibliotecas%20de%20Data%20Science/pandas.ipynb)
+  - [👩‍💻 Código - Matplotlib](Bibliotecas%20de%20Data%20Science/matplotlib.ipynb)
 
 - ### Data Cleaning
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-7-data-cleaning-c770969dd935)
