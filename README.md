@@ -26,6 +26,8 @@ conda activate turing-talks
 
 - ### [📈 Modelos de Predição](Modelos%20de%20Predição/)
 
+- ### [🗣 Processamento de Linguagem Natural](Processamento%20de%20Linguagem%20Natural/)
+
 - ### [💠 Projetos](Projetos/)
 
 - ### [👨‍💻 Programação](Programação/)
