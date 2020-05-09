@@ -36,4 +36,4 @@ conda activate turing-talks
 
 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 
-[1]: https://mybinder.org/v2/gh/GrupoTuringCodes/Turing-Talks/master
+[1]: https://mybinder.org/v2/gh/GrupoTuring/Turing-Talks/master
