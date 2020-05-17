@@ -1,5 +1,7 @@
 ![Turing Talks](⠀docs/logo.png)
 
+> ## *Inteligência Artificial para todos.*
+
 [![Binder](https://mybinder.org/badge_logo.svg)][1]
 <br>
 
