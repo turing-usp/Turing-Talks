@@ -10,4 +10,4 @@ Artigos sobre Projetos do Grupo Turing.
 - ### Como Machine Learning consegue diferenciar heterônimos de Fernando Pessoa
   - [📑 Artigo](https://medium.com/turing-talks/como-machine-learning-consegue-diferenciar-heter%C3%B4nimos-de-fernando-pessoa-156d0d52a478)
 
-  - [👩‍💻 Código](https://github.com/GrupoTuringCodes/fernando-pessoa)
+  - [👩‍💻 Código](https://github.com/GrupoTuring/fernando-pessoa)

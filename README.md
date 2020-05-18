@@ -28,11 +28,7 @@ conda activate turing-talks
 
 - ### [📈 Modelos de Predição](Modelos%20de%20Predição/)
 
-<<<<<<< HEAD
 - ### [👨‍💻 Programação](Programação/)
-=======
-- ### [🗣 Processamento de Linguagem Natural](Processamento%20de%20Linguagem%20Natural/)
->>>>>>> a90a12fb8988735d9d64858afa5070cd7c0c5dfd
 
 - ### [💠 Projetos](Projetos/)
 

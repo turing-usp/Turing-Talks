@@ -12,4 +12,4 @@ Artigos sobre assuntos gerais de Programação.
 - ### Algoritmos Genéticos
   - [📑 Artigo](https://medium.com/turing-talks/turing-talks-8-algoritmos-gen%C3%A9ticos-a791c25bd7ba)
 
-  - [👩‍💻 Código]() 🚧 Em Construção 🚧
+  - [👩‍💻 Código](https://github.com/GrupoTuring/ws-algoritmos-geneticos)
