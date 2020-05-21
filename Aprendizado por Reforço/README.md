@@ -20,4 +20,4 @@ Artigos sobre a área de [Aprendizado por Reforço](https://medium.com/turing-ta
 - ### Programação Dinâmica
   - [📑 Artigo](https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-5-programa%C3%A7%C3%A3o-din%C3%A2mica-8db4db386b67)
 
-  - [👩‍💻 Código]() 🚧 Em Construção 🚧
+  - [👩‍💻 Código](./Programação%20Dinâmica/)
