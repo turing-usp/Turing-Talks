@@ -21,3 +21,18 @@ Artigos sobre a área de [Aprendizado por Reforço](https://medium.com/turing-ta
   - [📑 Artigo](https://medium.com/turing-talks/aprendizado-por-refor%C3%A7o-5-programa%C3%A7%C3%A3o-din%C3%A2mica-8db4db386b67)
 
   - [👩‍💻 Código](./Programação%20Dinâmica/)
+
+- ### Criando uma IA que Aprende a Jogar Pong
+  - [📑 Artigo](https://medium.com/turing-talks/criando-uma-ia-que-aprende-a-jogar-pong-f379b0170017)
+
+  - [👩‍💻 Código](./QLearningTabular/)
+
+- ### Pouse um Módulo Lunar com Q-Learning
+  - [📑 Artigo](https://medium.com/turing-talks/pouse-um-m%C3%B3dulo-lunar-com-deep-q-learning-1f4395ea764)
+
+  - [👩‍💻 Código]() 🚧 Em Construção 🚧
+
+- ### Usando Deep Learning para jogar Super Mario Bros.
+  - [📑 Artigo](https://medium.com/turing-talks/usando-deep-learning-para-jogar-super-mario-bros-8d58eee6e9c2)
+
+  - [👩‍💻 Código](https://github.com/Berbardo/MarioRL)
