@@ -55,3 +55,6 @@ Artigos sobre [Modelos de Predição](https://medium.com/turing-talks/turing-tal
   - [📑 Artigo](https://medium.com/turing-talks/modelos-de-predi%C3%A7%C3%A3o-otimiza%C3%A7%C3%A3o-de-hiperpar%C3%A2metros-em-python-3436fc55016e)
 
   - [👩‍💻 Código](./Otimização%20de%20Hiperparâmetros/)
+
+- ### Como Avaliar Seu Modelo de Classificação
+  - [📑 Artigo](https://medium.com/turing-talks/como-avaliar-seu-modelo-de-classifica%C3%A7%C3%A3o-acd2a03690e)
