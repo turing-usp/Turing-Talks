@@ -31,3 +31,8 @@ Artigos sobre [Redes Neurais](https://medium.com/turing-talks/turing-talks-19-mo
   - [📑 Artigo](https://medium.com/turing-talks/redes-neurais-autoencoders-com-pytorch-fbce7338e5de)
 
   - [👩‍💻 Código](./Autoencoder/)
+
+- ### Construindo uma Rede Neural do zero | Pytorch
+  - [📑 Artigo](https://medium.com/turing-talks/construindo-uma-rede-neural-do-zero-pytorch-671ee06fbbe1)
+
+  - [👩‍💻 Código](https://github.com/enzocardeal/clasificacao-de-digito)
