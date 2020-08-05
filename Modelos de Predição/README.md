@@ -58,3 +58,8 @@ Artigos sobre [Modelos de Predição](https://medium.com/turing-talks/turing-tal
 
 - ### Como Avaliar Seu Modelo de Classificação
   - [📑 Artigo](https://medium.com/turing-talks/como-avaliar-seu-modelo-de-classifica%C3%A7%C3%A3o-acd2a03690e)
+
+- ### Como Avaliar Seu Modelo de Regressão
+  - [📑 Artigo](https://medium.com/turing-talks/como-avaliar-seu-modelo-de-classifica%C3%A7%C3%A3o-acd2a03690e)
+
+  - [👩‍💻 Código]() 🚧 Em Construção 🚧

@@ -26,3 +26,13 @@ Artigos sobre a área de Data Science.
   - [📑 Artigo](https://medium.com/turing-talks/aprendizado-n%C3%A3o-supervisionado-redu%C3%A7%C3%A3o-de-dimensionalidade-479ecfc464ea)
 
   - [👩‍💻 Código]() 🚧 Em Construção 🚧
+
+- ### Como Fazer uma Limpeza de Dados Completa em Python
+  - [📑 Artigo](https://medium.com/turing-talks/como-fazer-uma-limpeza-de-dados-completa-em-python-7abc9dfc19b8)
+
+  - [👩‍💻 Código]() 🚧 Em Construção 🚧
+
+- ### Como Visualizar e Analisar Dados com Python
+  - [📑 Artigo](https://medium.com/turing-talks/como-visualizar-e-analisar-dados-com-python-f209bfbae68e)
+
+  - [👩‍💻 Código]() 🚧 Em Construção 🚧
