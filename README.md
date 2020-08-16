@@ -38,6 +38,8 @@ conda activate turing-talks
 
 - ### [🧠 Redes Neurais](Redes%20Neurais/)
 
+- ### [📸 Visão Computacional](Visão%20Computacional/)
+
 ## Licença
 
 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
