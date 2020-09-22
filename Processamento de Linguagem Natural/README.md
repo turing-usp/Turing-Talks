@@ -19,6 +19,7 @@ Artigos sobre a área de Processamento de Linguagem Natural.
 
   - [👩‍💻 Código](https://github.com/piEsposito/nlp-sentiment-analysis-turing-talks)
   
- - ### Introdução a Bag of Words e TFIDF
+- ### Introdução a Bag of Words e TFIDF
   - [📑 Artigo](https://medium.com/turing-talks/introdu%C3%A7%C3%A3o-a-bag-of-words-e-tf-idf-43a128151ce9)
+  
   - [👩‍💻 Código](https://github.com/GrupoTuring/BoW-e-TFIDF)
