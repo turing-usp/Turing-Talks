@@ -36,3 +36,8 @@ Artigos sobre a área de [Aprendizado por Reforço](https://medium.com/turing-ta
   - [📑 Artigo](https://medium.com/turing-talks/usando-deep-learning-para-jogar-super-mario-bros-8d58eee6e9c2)
 
   - [👩‍💻 Código](https://github.com/Berbardo/MarioRL)
+
+- ### Sua Primeira IA: o Problema dos k-Armed Bandits
+  - [📑 Artigo](https://medium.com/turing-talks/sua-primeira-ia-o-problema-dos-k-armed-bandits-cc63732567b2)
+
+  - [👩‍💻 Código](https://github.com/GrupoTuring/Aprendizado-por-Reforco/tree/master/Aprendizado%20por%20Refor%C3%A7o%20Cl%C3%A1ssico/Bandits/Agente%20Epsilon-Guloso)
